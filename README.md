@@ -1,1 +1,1 @@
-# postgreSQL
+# postgreSQL calismasi
